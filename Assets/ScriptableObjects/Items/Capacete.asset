@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1ab501fe91ca44db209eeac4e67d9e, type: 3}
+  m_Name: Capacete
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: 82c91bbcfd250eb439786753b2caf72a, type: 3}
+  _type: 2
+  _level: 1
+  description: 
+  _stackable: 0
+  _data:
+    _name: Capuz
+    _id: 2
+    _price: 10
+    _buffs:
+    - _attribute: 1
+      _value: 1
+    _recoveries: []
